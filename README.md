@@ -57,10 +57,7 @@ The objective of this testing is to verify the core functionalities of the site 
 
 ## 📊 Test Summary Report
 - **Duration**: 2 days (03-Sep-2025 to 04-Sep-2025)  
-- **Total Test Cases**: (To be added after execution)  
-- **Passed**: —  
-- **Failed**: —  
-- **Blocked**: —  
+
 
 ---
 
